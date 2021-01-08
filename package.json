@@ -1,0 +1,19 @@
+{
+  "name": "lasersafetycalculator",
+  "version": "1.0.0",
+  "description": "LaserSafetyCalculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremy-Poppe/Front-End-Tim.git"
+  },
+  "author": "Jeremy Poppe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeremy-Poppe/Front-End-Tim/issues"
+  },
+  "homepage": "https://github.com/Jeremy-Poppe/Front-End-Tim#readme"
+}
